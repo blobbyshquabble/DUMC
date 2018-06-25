@@ -32,5 +32,4 @@ document.write('\
         </div>\
     </nav>\
     <br></br>\
-    <!-- LightWidget WIDGET --><script src="//lightwidget.com/widgets/lightwidget.js"></script><iframe src="//lightwidget.com/widgets/50dd4c8fc7105b208b524bd8b55c1d70.html" scrolling="no" allowtransparency="true" class="lightwidget-widget" style="width: 100%; border: 0; overflow: hidden;"></iframe>\
 ');
