@@ -12,14 +12,15 @@ document.write('\
         <li><a href="bouldering.html">Bouldering Team</a></li>\
     </ul>\
     <!-- actual navbar-->\
-    <nav>\
+    <div class="navbar">\
+        <nav>\
         <div class="nav-wrapper purple darken-2">\
             <a href="index.html" class="brand-logo"><img src="images/bwtight.png" height="55" ></a>\
             <a href="#" data-target="mobile-demo" class="sidenav-trigger"><i class="material-icons">menu</i></a>\
             <ul class="right hide-on-med-and-down">\
                 <li><a href="join.html">Join</a></li>\
                 <!-- Dropdown Trigger -->\
-                <li><a id=dropdown-trigger1 class="dropdown-trigger" href="#!" data-target="dropdown1">Club</a></li>\
+                <li><a id=dropdown-trigger1 class="dropdown-trigger" href="#!" data-target="dropdown1">Club Info<i class="material-icons right">arrow_drop_down</i></a></li>\
                 <li><a href="https://www.facebook.com/groups/DUMC.Forum/">Facebook</a></li>\
             </ul>\
             <!-- mobile navigation side bar -->\
@@ -31,5 +32,6 @@ document.write('\
             </ul>\
         </div>\
     </nav>\
+    </div>\
     <br></br>\
 ');
