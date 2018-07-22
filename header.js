@@ -5,11 +5,13 @@ document.write('\
         <li><a href="meets.html">Meets</a></li>\
         <li><a href="exec.html">Exec</a></li>\
         <li><a href="bouldering.html">Bouldering Team</a></li>\
+        <li><a href="gear.html">Gear</a></li>\
     </ul>\
     <ul id="dropdown2" class="dropdown-content">\
         <li><a href="meets.html">Meets</a></li>\
         <li><a href="exec.html">Exec</a></li>\
         <li><a href="bouldering.html">Bouldering Team</a></li>\
+        <li><a href="gear.html">Gear</a></li>\
     </ul>\
     <!-- actual navbar-->\
     <div class="navbar">\
@@ -27,7 +29,7 @@ document.write('\
             <ul class="sidenav" id="mobile-demo">\
                 <li><a href="join.html">Join</a></li>\
                 <!-- Dropdown Trigger -->\
-                <li><a id=dropdown-trigger2 class="dropdown-trigger" href="#!" data-target="dropdown2">Club</a></li>\
+                <li><a id=dropdown-trigger2 class="dropdown-trigger" href="#!" data-target="dropdown2">Club Info<i class="material-icons right">arrow_drop_down</i></a></li>\
                 <li><a href="https://www.facebook.com/groups/DUMC.Forum/">Facebook</a></li>\
             </ul>\
         </div>\
