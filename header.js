@@ -14,10 +14,10 @@ document.write('\
         <li><a href="gear.html">Gear</a></li>\
     </ul>\
     <!-- actual navbar-->\
-    <div class="navbar">\
+    <div class="navbar-fixed">\
         <nav>\
         <div class="nav-wrapper purple darken-2">\
-            <a href="index.html" class="brand-logo"><img src="images/bwtight.png" height="55" ></a>\
+            <a href="index.html" class="brand-logo"><img src="images/logos/DUMC/bwtight.png" height="55" ></a>\
             <a href="#" data-target="mobile-demo" class="sidenav-trigger"><i class="material-icons">menu</i></a>\
             <ul class="right hide-on-med-and-down">\
                 <li><a href="join.html">Join</a></li>\
@@ -35,5 +35,5 @@ document.write('\
         </div>\
     </nav>\
     </div>\
-    <br></br>\
+    \
 ');
