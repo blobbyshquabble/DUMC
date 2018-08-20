@@ -9,7 +9,7 @@ document.write('\
     <!--Let browser know website is optimized for mobile-->\
     <meta name="viewport" content="width=device-width, initial-scale=1.0"/>\
 \
-    <link rel="icon" href="images/favicon.ico">\
+    <link rel="icon" href="images/logos/DUMC/favicon.ico">\
     <title>Durham University Mountaineering Club Home</title>\
     <meta name="description" content="Durham University Mountaineering Club">\
     <meta name="keywords" content="durham, university, mountaineering, club, dumc, climbing, bouldering">\
