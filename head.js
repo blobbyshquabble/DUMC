@@ -3,6 +3,7 @@ document.write('\
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">\
     <!--Import materialize.css 1.0.0.alpha-->\
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0-alpha.3/css/materialize.min.css">\
+    <link type="text/css" rel="stylesheet" href="additional.css"/>\
 \
 \
     <!--Let browser know website is optimized for mobile-->\
