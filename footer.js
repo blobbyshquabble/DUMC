@@ -8,7 +8,7 @@ document.write('\
   <img class="responsive-img center" src="images/Logos/BMC.gif" alt="BMC Logo">\
   </div>\
   <div class="col l4 offset-8 s12 center-align">\
-  <img class="responsive-img" src="images/Logos/dcclogo.bmp" alt="Durham Climbing Centre Logo">\
+  <img class="responsive-img" src="images/Logos/dcclogo.BMP" alt="Durham Climbing Centre Logo">\
   </div>\
 </div>\
 </div>\
