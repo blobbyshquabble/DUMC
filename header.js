@@ -14,7 +14,7 @@ document.write('\
         <li><a href="gear.html">Gear</a></li>\
     </ul>\
     <!-- actual navbar-->\
-    <div class="navbar-fixed">\
+    <div class="navbar">\
         <nav>\
         <div class="nav-wrapper purple darken-2">\
             <a href="index.html" class="brand-logo"><img src="images/Logos/DUMC/bwtight.png" height="55" ></a>\
