@@ -23,7 +23,7 @@ document.write('\
                 <li><a href="join.html">Join</a></li>\
                 <!-- Dropdown Trigger -->\
                 <li><a id=dropdown-trigger1 class="dropdown-trigger" href="#!" data-target="dropdown1">Club Info<i class="material-icons right">arrow_drop_down</i></a></li>\
-                <li><a href="https://www.facebook.com/groups/DUMC.Forum/"><i class="fa fa-facebook-official"></i> Facebook</a></li>\
+                <li><a href="https://www.facebook.com/groups/DUMC.Forum/">Facebook <i class="fa fa-facebook-square" aria-hidden="true" style="vertical-align: top;"></i></a></li>\
             </ul>\
             <!-- mobile navigation side bar -->\
             <ul class="sidenav" id="mobile-demo">\
