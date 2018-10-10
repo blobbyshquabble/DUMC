@@ -18,7 +18,7 @@ document.write('\
 <div class="footer-copyright">\
 <div class="container">\
 &copy; 2018 Durham University Mountaineering Club\
-<a class="grey-text text-lighten-4 right" href="#!">More Links</a>\
+<a class="grey-text text-lighten-4 right" href="https://community.dur.ac.uk/mountaineering.club/Old/">Visit the Old Website</a>\
 </div>\
 </div>\
 ')
